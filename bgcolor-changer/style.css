@@ -1,6 +1,7 @@
 *{
     font-family: cursive;
 }
+
 body{
     margin: 0;
     text-align: center;
@@ -9,6 +10,7 @@ body{
     background-color: #ffffff;
     
 }
+
 .container{
     color: #bbbbbb;
     mix-blend-mode: difference;
