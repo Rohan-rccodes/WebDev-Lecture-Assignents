@@ -20,7 +20,7 @@ body{
     border-radius: 30px;
     mix-blend-mode: difference;
 }
-.mainBox button:hover{
+.container button:hover{
     font-size: 21px;
     border: none;
 }
