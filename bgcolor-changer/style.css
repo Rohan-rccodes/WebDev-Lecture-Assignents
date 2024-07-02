@@ -25,6 +25,7 @@ body{
     border: none;
     border-radius: 10px;
     mix-blend-mode: difference;
+    margin: 20px auto;
 }
 
 .container button:hover{
