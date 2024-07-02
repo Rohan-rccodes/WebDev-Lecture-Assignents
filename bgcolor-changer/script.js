@@ -1,8 +1,13 @@
+/* script to change the background color*/
+
+
+
 function changeColor(){
     let color=colorPicker()
     document.body.style.backgroundColor=color;
     document.getElementById('color').innerText=color
 }
+
 function colorPicker(){
     let list='0123456789abcdef';
     let color="#";
