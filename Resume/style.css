@@ -88,8 +88,8 @@ img {
 .resume-container .main-body {
   padding: 60px 30px;
   -webkit-box-flex: 2;
-      -ms-flex: 2;
-          flex: 2;
+  -ms-flex: 2;
+  flex: 2;
   color: #4C4D4F;
   background-color: #FFFFFF;
 }
