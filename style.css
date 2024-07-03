@@ -83,3 +83,16 @@ body
     gap: 2%;
     margin: 3% 0;
 }
+a.downloadZipWeb {
+    background-color: #e7f9ff;
+    color: #0582B0;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    padding: 2%;
+    border-radius: 6px;
+    border: 2px solid #0582b0;
+    width: 35%;
+}
