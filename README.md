@@ -14,11 +14,8 @@
 - Part11: Python Advance
 
 ## Technologies we learn 
-- Responsive Ecommerce Website Tutorial Using HTML CSS & JavaScript.
-- Multipage Ecommerce Website Project.
 - Best Beginner Friendly web layout.
 - Learn the fundamentals of web design.
-- Modern CSS, including flexbox and CSS Grid for layout.
 - Modern CSS techniques to create stunning designs and effects.
 - Use common components and layout patterns for professional website design and development.
 - Advanced responsive design using media queries.
@@ -27,5 +24,5 @@
 ## View Live Website: 
 https://rohan-rccodes.github.io/WebDev-Workshop/
 ## Website Preview:
-<img src="https://github.com/Rohan-rccodes/Ecommerce-Website/blob/main/img/Ecommerce.png" alt="Neon Template" width="700">
+<img src="https://github.com/Rohan-rccodes/WebDev-Workshop/blob/main/img/Home.png" width="700">
 
