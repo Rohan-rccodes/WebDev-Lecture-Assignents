@@ -126,6 +126,7 @@ img {
   color: #EA4335;
   font-size: 1.7em;
 }
+
 .resume-container .main-body .job-info {
   margin-top: 45px;
   display: -webkit-box;
@@ -154,6 +155,19 @@ img {
 .resume-container .main-body p.job-detail {
   line-height: 1.7;
   font-size: 1em;
+}
+.resume-container .main-body p.tech
+{
+  display: flex;
+  flex-wrap: wrap;
+}
+.resume-container .main-body p.tech span
+{
+  border: 1px solid #ababab;
+  padding: 5px;
+  border-radius: 3px;
+  margin: 3px;
+  background-color: #fffbfb;
 }
 .resume-container .main-body .ref {
   background-color: #EA4335;
