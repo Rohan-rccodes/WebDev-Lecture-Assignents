@@ -17,8 +17,8 @@ body
 
 .heading
 {
-    width: 80%;
-    margin: 1% 10%;
+    width: 60%;
+    margin: 1% 20%;
     text-align: center;
     background-color: #fff;
     box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
@@ -74,8 +74,9 @@ body
     font-size: 1.36rem;
 }
 .project-item p.description {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     margin: 2% 0;
+    text-align: justify;
 }
 .projectButtons {
     display: flex;
@@ -95,4 +96,25 @@ a.downloadZipWeb {
     border-radius: 6px;
     border: 2px solid #0582b0;
     width: 35%;
+    text-align: center;
+}
+.socialbtn
+{
+    background-color: #fff;
+    width: 80%;
+    margin: auto;
+    border-radius: 5px;
+    text-align: center;
+    padding: 1rem;
+
+}
+.socialbtn a
+{
+    padding:1rem;
+}
+.socialbtn img
+{
+    width: 40px;
+    height: 40px;
+
 }
