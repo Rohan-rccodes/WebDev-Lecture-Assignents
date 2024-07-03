@@ -27,5 +27,5 @@
 ## View Live Website: 
 https://rohan-rccodes.github.io/WebDev-Workshop/
 ## Website Preview:
-<img src="https://github.com/Rohan-rccodes/Ecommerce-Website/blob/main/img/Ecommerce.png" alt="Neon Template" width="700">
+<img src="https://github.com/Rohan-rccodes/WebDev-Workshop/blob/main/img/Home.png" width="700">
 
