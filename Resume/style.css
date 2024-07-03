@@ -39,22 +39,7 @@
     font-size: 1rem;
   }
   
-  /* .left {
-    height: 1000px;
-    width: 45px;
-    background-color: #e0eeee;
-    float: left;
-    position: fixed;
-  }
-   */
-  /* .right {
-    height: 1000px;
-    width: 45px;
-    background-color: #e0eeee;
-    float: right;
-    position: inherit;
-  } */
-  
+
   .stuff {
     display: inline-block;
     margin-top: 6px;
