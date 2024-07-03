@@ -55,7 +55,7 @@ body
     text-decoration: none;
     border: 1px solid #e0d7d7;
     display: flex;
-    width: 85%;
+    width: 80%;
     margin: 2% auto;
     transition: all 0.3s ease;
 }
