@@ -98,6 +98,12 @@ a.downloadZipWeb {
     width: 35%;
     text-align: center;
 }
+footer
+{
+    background-color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
 .socialbtn
 {
     background-color: #fff;
