@@ -25,16 +25,22 @@ body
     padding: 1rem 2rem;
     line-height: 2rem;
     border-radius: 10px;
-    background-image: url();
+    background-image:linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.55)), url('img/ban1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #fff;
 }
 .heading h1
 {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
+    color: #fff;
+
 }
 .heading h2
 {
     font-size: 1.2rem;
-    color: #4f4f4f;
+    color: #ececec;
 }
 
 .project-Container {
@@ -49,7 +55,7 @@ body
     text-decoration: none;
     border: 1px solid #e0d7d7;
     display: flex;
-    width: 90%;
+    width: 85%;
     margin: 2% auto;
     transition: all 0.3s ease;
 }
