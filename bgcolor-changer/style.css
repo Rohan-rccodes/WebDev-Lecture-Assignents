@@ -23,7 +23,7 @@ body{
     font-size: 20px;
     padding: 10px 15px;
     border: none;
-    border-radius: 10px;
+    border-radius: 5px;
     mix-blend-mode: difference;
     margin: 30px auto;
 }
